@@ -1,0 +1,24 @@
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject1\bin\Debug\ConsoleApplication2.exe
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject1\bin\Debug\ConsoleApplication2.pdb
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\ООП\ConsoleApplication2\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\ООП\ConsoleApplication2\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\ООП\ConsoleApplication2\UnitTestProject1\bin\Debug\ConsoleApplication2.exe
+D:\ООП\ConsoleApplication2\UnitTestProject1\bin\Debug\ConsoleApplication2.pdb
+D:\ООП\ConsoleApplication2\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\ООП\ConsoleApplication2\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\ООП\ConsoleApplication2\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\RobotNavigator\UnitTestProject1\bin\Debug\NLog.config
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\RobotNavigator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\RobotNavigator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\RobotNavigator\UnitTestProject1\bin\Debug\ConsoleApplication2.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\RobotNavigator\UnitTestProject1\bin\Debug\NLog.dll
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\RobotNavigator\UnitTestProject1\bin\Debug\ConsoleApplication2.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\RobotNavigator\UnitTestProject1\bin\Debug\NLog.xml
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\RobotNavigator\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\RobotNavigator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\RobotNavigator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

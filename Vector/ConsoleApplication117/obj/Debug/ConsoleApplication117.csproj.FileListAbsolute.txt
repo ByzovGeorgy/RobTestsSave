@@ -1,0 +1,9 @@
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\ConsoleApplication117\bin\Debug\ConsoleApplication117.exe.config
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\ConsoleApplication117\bin\Debug\ConsoleApplication117.exe
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\ConsoleApplication117\bin\Debug\ConsoleApplication117.pdb
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\ConsoleApplication117\obj\Debug\ConsoleApplication117.csprojResolveAssemblyReference.cache
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\ConsoleApplication117\obj\Debug\ConsoleApplication117.exe
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\ConsoleApplication117\obj\Debug\ConsoleApplication117.pdb
+D:\ООП\Vector\ConsoleApplication117\bin\Debug\ConsoleApplication117.exe.config
+D:\ООП\Vector\ConsoleApplication117\obj\Debug\ConsoleApplication117.exe
+D:\ООП\Vector\ConsoleApplication117\obj\Debug\ConsoleApplication117.pdb

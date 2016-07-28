@@ -1,0 +1,14 @@
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\UnitTestProject1\bin\Debug\ConsoleApplication117.exe
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\UnitTestProject1\bin\Debug\ConsoleApplication117.pdb
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\sonissd\documents\visual studio 2012\Projects\ConsoleApplication117\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\ООП\Vector\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\ООП\Vector\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\ООП\Vector\UnitTestProject1\bin\Debug\ConsoleApplication117.exe
+D:\ООП\Vector\UnitTestProject1\bin\Debug\ConsoleApplication117.pdb
+D:\ООП\Vector\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\ООП\Vector\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\ООП\Vector\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

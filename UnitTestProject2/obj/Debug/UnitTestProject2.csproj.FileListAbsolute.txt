@@ -1,0 +1,14 @@
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject2\bin\Debug\ConsoleApplication2.exe
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject2\bin\Debug\ConsoleApplication2.pdb
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+c:\users\georgy.byzov\documents\visual studio 2012\Projects\ConsoleApplication2\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\ООП\ConsoleApplication2\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\ООП\ConsoleApplication2\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\ООП\ConsoleApplication2\UnitTestProject2\bin\Debug\ConsoleApplication2.exe
+D:\ООП\ConsoleApplication2\UnitTestProject2\bin\Debug\ConsoleApplication2.pdb
+D:\ООП\ConsoleApplication2\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\ООП\ConsoleApplication2\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\ООП\ConsoleApplication2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

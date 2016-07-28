@@ -1,0 +1,6 @@
+D:\ООП\Vector\ConsoleApplication117\bin\Debug\ConsoleApplication117.exe.config
+D:\ООП\Vector\ConsoleApplication117\bin\Debug\ConsoleApplication117.exe
+D:\ООП\Vector\ConsoleApplication117\bin\Debug\ConsoleApplication117.pdb
+D:\ООП\Vector\ConsoleApplication117\obj\Debug\ConsoleAplication1.csprojResolveAssemblyReference.cache
+D:\ООП\Vector\ConsoleApplication117\obj\Debug\ConsoleApplication117.exe
+D:\ООП\Vector\ConsoleApplication117\obj\Debug\ConsoleApplication117.pdb

@@ -1,0 +1,7 @@
+D:\ООП\Vector\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\ООП\Vector\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\ООП\Vector\UnitTestProject2\bin\Debug\ConsoleApplication117.exe
+D:\ООП\Vector\UnitTestProject2\bin\Debug\ConsoleApplication117.pdb
+D:\ООП\Vector\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\ООП\Vector\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\ООП\Vector\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

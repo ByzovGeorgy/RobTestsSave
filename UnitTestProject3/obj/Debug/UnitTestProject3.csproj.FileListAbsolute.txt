@@ -1,0 +1,7 @@
+D:\ООП\ConsoleApplication2\UnitTestProject3\bin\Debug\UnitTestProject3.dll
+D:\ООП\ConsoleApplication2\UnitTestProject3\bin\Debug\UnitTestProject3.pdb
+D:\ООП\ConsoleApplication2\UnitTestProject3\bin\Debug\ConsoleApplication2.exe
+D:\ООП\ConsoleApplication2\UnitTestProject3\bin\Debug\ConsoleApplication2.pdb
+D:\ООП\ConsoleApplication2\UnitTestProject3\obj\Debug\UnitTestProject3.csprojResolveAssemblyReference.cache
+D:\ООП\ConsoleApplication2\UnitTestProject3\obj\Debug\UnitTestProject3.dll
+D:\ООП\ConsoleApplication2\UnitTestProject3\obj\Debug\UnitTestProject3.pdb
